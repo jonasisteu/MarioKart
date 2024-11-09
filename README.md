@@ -8,8 +8,8 @@
 
 ### En quoi consiste le jeu ?
 
-- :race_car: Le script génère des trajets optimisés pour un kart sur une carte donnée.
-- :map: Les cartes sont fournies par défaut dans le dossier du projet, et chaque carte est représentée sous forme de matrice.
+- :car: Le script génère des trajets optimisés pour un kart sur une carte donnée.
+- :world_map: Les cartes sont fournies par défaut dans le dossier du projet, et chaque carte est représentée sous forme de matrice.
 - :triangular_flag_on_post: Le script exploite l'algorithme de pathfinding A* pour déterminer les meilleurs trajets sur chaque carte.
 - :gear: Une fonction d'optimisation de trajet ajuste le parcours en fonction des obstacles et des objectifs sur la carte.
 - :arrow_forward: Le script renvoie les coordonnées optimisées sous la forme `y:x` pour chaque étape du trajet.
